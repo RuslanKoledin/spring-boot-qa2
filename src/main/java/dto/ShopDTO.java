@@ -8,6 +8,7 @@ import java.time.LocalTime;
 public class ShopDTO {
     private Long id;
     private String name;
+
     private String city;
     private String street;
     private int houseNumber;
